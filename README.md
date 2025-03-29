@@ -4,7 +4,6 @@
 To implement Delta Modulation (DM) for efficiently encoding a message signal. To analyze the stepwise modulation process and observe quantization effects.
 
 ## Tools required
-- Personal Computer with Scilab
 - Python IDE (Numpy)
 
 ## Program
